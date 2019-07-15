@@ -1,0 +1,22 @@
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\jesseb\pair exercises\team6-c-sharp-week4-pair-exercises\19_Mini-Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\jesseb\source\repos\VendingMachineCapstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.pdb
